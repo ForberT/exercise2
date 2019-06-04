@@ -1,0 +1,59 @@
+{
+	"store": {
+		"name": "Jolly Auto Repair",
+		"slogan": "We fix cars like no one does!",
+		"staff": [
+					{
+						"name": "Jolly Smith",
+						"category": "Mechanic",
+						"id": "001",
+						"contact":
+							{
+								"phone": "9051239876",
+								"email": "jsmith@jollycars.com"
+							}
+					},
+					{
+						"name": "Brian Smith",
+						"category": "Mechanic",
+						"id": "002",
+						"contact":
+							{
+								"phone": "9052239476",
+								"email": "bsmith@jollycars.com"
+							}
+					},
+					{
+						"name": "Diane Massey",
+						"category": "Driver",
+						"id": "003",
+						"contact":
+							{
+								"phone": "6471239576",
+								"email": "dmassey@jollycars.com"
+							}
+					},
+					{
+						"name": "Steve Mendez",
+						"category": "Driver",
+						"id": "004",
+						"contact":
+							{
+								"phone": "9053215436",
+								"email": "smendez@jollycars.com"
+							}
+					},
+					{
+						"name": "Wanda Ramos",
+						"category": "Mechanic",
+						"id": "005",
+						"contact":
+							{
+								"phone": "6471051276",
+								"email": "wramos@jollycars.com"
+							}
+					}
+		]
+
+	}
+}
